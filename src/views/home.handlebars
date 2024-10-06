@@ -1,0 +1,14 @@
+<h2> TR VIAL </h2>
+<h3> Productos </h3>
+
+<div id="contenedorProductos" class="productGrid">
+
+    {{#each productos}}
+    <div class="productCard textCard">
+        <p> {{this.title}} </p>
+        <p> {{this.description}} </p>
+        <p> ${{this.price}} </p>
+    </div>
+    {{/each}}
+
+</div>

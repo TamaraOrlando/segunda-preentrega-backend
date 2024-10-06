@@ -1,0 +1,33 @@
+<h2> TR VIAL </h2>
+<h3> Productos </h3>
+
+<div id="contenedorProductos" class="productGrid"></div>
+
+<h4>Agregar nuevo producto</h4>
+
+<form id="formularioProducto">
+
+    <div class="mb-3">
+        <label for="title" class="form-label">Nombre:</label>
+        <input type="text" class="form-control" name="title" placeholder="Nombre del producto" required>
+        <br><br>
+    </div>
+
+    <div class="mb-3">
+        <label for="description" class="form-label">Descripción:</label>
+        <input type="text" class="form-control" name="description" placeholder="Descripción" required>
+        <br><br>
+    </div>
+
+    <div class="mb-3">
+        <label for="price" class="form-label">Precio:</label>
+        <input type="number" class="form-control" name="price" placeholder="Precio" required>
+        <br><br>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Agregar Producto</button>
+
+</form>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.7.2/socket.io.min.js"></script>
+<script src="js/index.js"></script>

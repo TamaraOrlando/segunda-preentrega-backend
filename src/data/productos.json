@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Tierra fertilizada",
+    "description": "Tierra fertilizada",
+    "price": 50000,
+    "img": "sin imagen",
+    "code": "abc187",
+    "stock": 30,
+    "category": "Aridos"
+  },
+  {
+    "id": 2,
+    "title": "Tierra negra fina",
+    "description": "Tierra negra fina",
+    "price": 30000,
+    "img": "sin imagen",
+    "code": "abc122",
+    "stock": 35,
+    "category": "Aridos"
+  },
+  {
+    "id": 3,
+    "title": "Tosca",
+    "description": "Tosca",
+    "price": 40000,
+    "img": "sin imagen",
+    "code": "abc198",
+    "stock": 32,
+    "category": "Aridos"
+  },
+  {
+    "id": 4,
+    "title": "Maquinaria vial",
+    "description": "Alquiler de maquinaria vial",
+    "price": 100000,
+    "img": "sin imagen",
+    "code": "afc123",
+    "stock": 10,
+    "category": "Servicios de alquiler"
+  },
+  {
+    "id": 5,
+    "title": "Volquetes",
+    "description": "Alquiler de volquetes",
+    "price": 65000,
+    "img": "sin imagen",
+    "code": "afc198",
+    "stock": 40,
+    "category": "Servicios de alquiler"
+  },
+  {
+    "id": 6,
+    "title": "Excavaciones",
+    "description": "Excavaciones",
+    "price": 250000,
+    "img": "sin imagen",
+    "code": "acd175",
+    "stock": 10,
+    "category": "Movimientos de suelo"
+  },
+  {
+    "id": 7,
+    "title": "Demoliciones",
+    "description": "Demoliciones",
+    "price": 200000,
+    "img": "sin imagen",
+    "code": "acd165",
+    "stock": 6,
+    "category": "Movimientos de suelo"
+  },
+  {
+    "id": 8,
+    "title": "Podas, desmonte",
+    "description": "Podas, desmonte",
+    "price": 60000,
+    "img": "sin imagen",
+    "code": "acd123",
+    "stock": 5,
+    "category": "Movimientos de suelo"
+  },
+  {
+    "id": 9,
+    "title": "Plateas",
+    "description": "Plateas",
+    "price": 300000,
+    "img": "sin imagen",
+    "code": "acd148",
+    "stock": 2,
+    "category": "Movimientos de suelo"
+  }
+]
